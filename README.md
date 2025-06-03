@@ -1,4 +1,11 @@
-# trinitymodelappwheel
-function generateSentence(data) {
-  return `You resonate through the ${data.field} Field, perceiving reality via Gate ${data.gate}.${data.line}, filtered by Color ${data.color}, attuned to Tone ${data.tone}, and grounded in Base ${data.base}.`;
-}
+# Trinity Model App Wheel
+
+🌀 An interactive cosmic decoder based on the Trinity Model of Consciousness.
+
+Includes:
+- Mind, Body, Heart, Soul, Spirit field logic
+- Gate/Line/Color/Tone/Base calculations
+- UI with date, time, and place inputs
+- Ephemeris + sentence generation backend
+
+Built by: [Stellar Proximology](https://stellarproximology.org)
