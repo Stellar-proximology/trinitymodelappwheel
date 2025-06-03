@@ -1,0 +1,1 @@
+# Sentence generation logic for resonance output

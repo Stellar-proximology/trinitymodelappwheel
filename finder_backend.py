@@ -1,0 +1,1 @@
+# Finder function with ephemeris + gate line mapping
